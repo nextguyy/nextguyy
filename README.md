@@ -1,106 +1,76 @@
 ## Siddharath Jain (AKA Nextguyy) 👋
 
+<p align="center">
+
 # Practical AI Engineering
 
-Practical, production-focused tutorials for building modern AI systems.
+Building world-class practical tutorials for **AI Agents, RAG, MCP and LLM systems**
 
-This repository is an open-source collection of **world-class practical tutorials and implementations** covering the core building blocks behind modern AI applications.
+Learn how modern AI applications are actually built.
 
-The goal is simple: build the **best practical resource for engineers who want to learn how real AI systems are built.**
+</p>
 
----
+<p align="center">
+AI Agents • RAG Systems • MCP • LLM Engineering • Production AI Architectures
+</p>
 
-## What This Repository Builds
+<h1 align="center">
+Practical AI Engineering
+</h1>
 
-Most AI content focuses on prompt tricks or surface-level tutorials.
+<p align="center">
+Production-grade tutorials for building modern AI systems
+</p>
 
-This repository focuses on **real AI engineering** — how production AI systems are designed and implemented.
+<p align="center">
+AI Agents • RAG • MCP • LLM Engineering • Multi-Agent Systems
+</p>
 
-Inside this repository you will learn how to build:
 
-- Autonomous **AI Agents**
-- **Retrieval Augmented Generation (RAG)** systems
-- **Multi-agent architectures**
-- **Tool-integrated LLM applications**
-- **Model Context Protocol (MCP)** based systems
-- Scalable **LLM applications**
-- Production-ready **AI pipelines**
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![AI](https://img.shields.io/badge/AI-Agents-purple)
+![RAG](https://img.shields.io/badge/RAG-Systems-green)
+![LLM](https://img.shields.io/badge/LLM-Engineering-orange)
 
-Every tutorial focuses on **architecture, system design, and practical code examples.**
+## Start Here
 
----
+If you're new to building AI systems, start with these tutorials in order.
 
-## Topics Covered
+1. **AI Agent Fundamentals**
+   - How agents reason, plan and execute tasks
 
-### AI Agents
-Building autonomous systems that can reason, plan, and execute tasks.
+2. **Build Your First AI Agent**
+   - Tool calling
+   - Memory
+   - Task execution
 
-- Tool calling
-- Planning agents
-- Memory systems
-- Multi-agent orchestration
-- Agent evaluation
+3. **Build a RAG System**
+   - Embeddings
+   - Vector databases
+   - Document retrieval
 
-### Retrieval Augmented Generation (RAG)
+4. **Connect Tools with MCP**
+   - Tool integrations
+   - Context management
 
-Designing knowledge-aware AI systems.
+5. **Production LLM Systems**
+   - Scaling LLM applications
+   - Cost optimization
+   - Architecture patterns
 
-- Embeddings
-- Vector databases
-- Document chunking strategies
-- Retrieval optimization
-- Hybrid search
+## Why This Repository Exists
 
-### Model Context Protocol (MCP)
+Most AI tutorials focus on prompt tricks.
 
-Connecting language models to external tools and systems.
+This repository focuses on **how real AI systems are engineered**, including:
 
-- Tool integration
-- Agent communication
-- Context management
-- Modular AI architectures
+- AI agents
+- RAG pipelines
+- MCP tool integrations
+- scalable LLM applications
+- production architecture patterns
 
-### LLM Engineering
-
-Understanding how modern LLM-powered systems work.
-
-- Tokenization
-- Context windows
-- Prompt engineering patterns
-- Cost optimization
-- LLM API architecture
-
----
-
-## Project Structure
-
-```
-AI-Engineering
-│
-├── agents/
-│
-├── rag/
-│
-├── mcp/
-│
-├── llm-engineering/
-│
-└── diagrams/
-```
-
-Each section contains **clear explanations, architecture diagrams, and runnable implementations.**
-
----
-
-## Who This Is For
-
-This repository is designed for:
-- Somebody who is starting from scracth
-- AI,ML engineers
-- Software engineers entering AI
-- Developers building AI startups
-- Builders who want to **engineer AI systems instead of just prompting them**
-
+⭐ If this repository helps you learn AI engineering, please consider giving it a star.
 ---
 
 ## Vision
