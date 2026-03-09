@@ -1,4 +1,4 @@
-## Hi there 👋
+## Siddharath Jain (AKA Nextguyy) 👋
 
 # Practical AI Engineering
 
